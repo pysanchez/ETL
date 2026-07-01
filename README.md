@@ -1,1 +1,1 @@
-pasaron cositas con postgresql y valio camote xd
+pasaron cositas con postgresql
